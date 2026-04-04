@@ -1,0 +1,19 @@
+# Formules Intérêts composés
+
+### Intérêts composés
+- i = taux d'intérêt
+- Ct = valeur acquise (valeur future)
+- Co = capital de départ (valeur actuelle)
+- t = durée
+- I = intérêts = (Ct - Co)
+
+```
+Ct = Co * (1 + i) ^ t
+
+i = (Ct / Co ) ^ (1/t) - 1
+
+```
+
+
+
+				
