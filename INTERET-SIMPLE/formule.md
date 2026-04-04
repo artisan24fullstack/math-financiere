@@ -28,6 +28,8 @@ Co = Ct / ( 1 + i * t)
 i = I / Co * t
 
 t = I / Co * i
+
+Co = I / (i * t)
 ```
 
 #### Durée exprimée en période
