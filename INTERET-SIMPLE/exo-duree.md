@@ -1,6 +1,6 @@
 # 
 
-## Exos 3 
+## Exos 4 
 
 - Combien de temps faut il placer un capital de 30 000 € au taux de 8 % pour qu’il rapporte 1 200 € ? 				
 			

@@ -41,3 +41,14 @@ t = I / Co * i
 | jours        | (Co * i * t) / 365 |
 
 
+#### Période en quinzaine
+
+- Tout versement a une date de valeur égale au premier jour de la quinzaine suivant :	
+  
+- Versement réalisé entre le 1er et le 15, date de valeur au 16. 
+- Versement réalisé entre le 16 et la fin de mois, date de valeur au 1er du mois suivant.						
+- Tout retrait a une date de valeur égale au dernier jour de la quinzaine précédente 
+  
+- (ou quelquefois premier jour de la quinzaine en cours) :				
+- Retrait effectué du 1er au 15, date de valeur : fin de mois précédente. 
+- Retrait effectué du 16 à la fin de mois, date de valeur le 15.						
