@@ -24,6 +24,10 @@ I = Co * i * t
 Ct = Co + I
 
 Co = Ct / ( 1 + i * t)
+
+i = I / Co * t
+
+t = I / Co * i
 ```
 
 #### Durée exprimée en période
