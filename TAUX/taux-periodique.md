@@ -10,3 +10,17 @@
 - le taux périodique on le nommera j(m)/m
 
 ![](nt-periodique.png)
+
+```
+j(m) / m = (1 + i_effectif ) ^ (1/m) - 1
+```
+
+#### Exo 1
+- quel est le taux périodique semestriel correspondant au taux annuel effectif de 3,05%
+
+- m = 2 (semestriel)
+- i_periodique 
+
+```
+(1 + 3.05%) ^ (1/2) - 1 = 0.0151 = 1.51%
+```
