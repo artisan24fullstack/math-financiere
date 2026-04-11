@@ -13,7 +13,7 @@ t = LOG( 200000 / 100000) / LOG ( 1 + 2%)
 ```
 
 
-## Exos 1.
+## Exos 2.
 
 - Si le taux annuel est de 3,5 %, après combien de temps un capital de 1500 € devient-il 1876 € ?
 
@@ -23,5 +23,5 @@ t = LOG( 200000 / 100000) / LOG ( 1 + 2%)
 - Ct = 1876
   
 ```
-t = LOG( 1876 / 1500) / LOG ( 1 + 3.5%) = 6.5%
+t = LOG( 1876 / 1500) / LOG ( 1 + 3.5%) = 6.5 ans
 ```
