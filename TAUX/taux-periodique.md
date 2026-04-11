@@ -11,6 +11,37 @@
 
 ![](nt-periodique.png)
 
+
+#### Exo 6
+- quel est le taux périodique semestriel correspondant au taux nominal annuel de 2,95%
+
+- i_e = 2.95%
+- m   = 2
+  
+```
+j(2/2) = 2.95%/2 = 1.475%
+```
+
+#### Exo 7
+- quel est le taux périodique mensuel correspondant au taux nominal annuel de 1,75%
+
+- i_e = 1.75%
+- m   = 12 
+  
+```
+1.75% / 12 = 0.1458%
+```
+
+#### Exo 13 
+quel est le taux périodique trimestriel correspondant au taux nominal annuel de 5,5%
+
+- i_e = 5.5%
+- m   = 4 
+
+```
+5.5% / 4 = 1.375%
+```
+
 ```
 j(m) / m = (1 + i_effectif ) ^ (1/m) - 1
 ```
@@ -24,3 +55,24 @@ j(m) / m = (1 + i_effectif ) ^ (1/m) - 1
 ```
 (1 + 3.05%) ^ (1/2) - 1 = 0.0151 = 1.51%
 ```
+
+#### Exo 5
+- quel est le taux périodique mensuel correspondant au taux effectif annuel de 4,85%
+
+- i_e = 4.85%
+- m   = 12
+  
+```
+(1 + 4.85%) ^ (1/12) - 1 = 0.00395 = 3.95%
+```
+
+#### Exo 8
+- quel est le taux périodique trimestriel correspondant au taux effectif annuel de 2,25% 
+
+- i_e = 2.25%
+- m   = 4 (trimestre 3 mois) 
+  
+```
+(1 + 2.25%) ^(1/4) - 1 = 0.005578 = 5.578%
+```
+

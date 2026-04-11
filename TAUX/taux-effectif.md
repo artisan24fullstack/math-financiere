@@ -11,7 +11,9 @@
 i_effectif = ( 1 + j(m)/m ) ^ m - 1 
 ```
 #### Exo 2
-- quel est le taux effectif annuel correspondant au taux nominal de 2,99% (sur base d'une capitalisation mensuelle)
+- quel est le taux effectif annuel correspondant au taux nominal de 2,99% 
+- (sur base d'une capitalisation mensuelle)
+
 - j(m)   = 2.99%
 - m      = 12 
 - j(m)/m = j(12/12) = taux periodique mensuel
