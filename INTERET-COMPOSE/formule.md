@@ -15,7 +15,17 @@ i = (Ct / Co ) ^ (1/t) - 1
 Co = Ct / (1 + i) ^ t
 
 ```
+### EXCEL
 
+```
+valeur acquise
+VC(taux,npm,vpm,[va],[type])
 
+taux d'intérêt
+TAUX(npm;vpm;va;vc;type;estimation)
 
+valeur actuelle
+VA(taux, npm, vpm, [vc], [type])
+
+```
 				
