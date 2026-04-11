@@ -33,7 +33,7 @@ j(2/2) = 2.95%/2 = 1.475%
 ```
 
 #### Exo 13 
-quel est le taux périodique trimestriel correspondant au taux nominal annuel de 5,5%
+- quel est le taux périodique trimestriel correspondant au taux nominal annuel de 5,5%
 
 - i_e = 5.5%
 - m   = 4 
@@ -41,6 +41,8 @@ quel est le taux périodique trimestriel correspondant au taux nominal annuel de
 ```
 5.5% / 4 = 1.375%
 ```
+
+![](t_periodique.png)
 
 ```
 j(m) / m = (1 + i_effectif ) ^ (1/m) - 1
