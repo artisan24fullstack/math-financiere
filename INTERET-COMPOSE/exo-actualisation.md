@@ -32,3 +32,15 @@ Co = 5000 / (1 + 7%) ^ 5 = 3564.93
 
 VA(7%;5;0;-5000)
 ```
+
+## Exo 3 
+- Vous avez 20 ans et vous recevrez dans 10 ans 150 000 € le jour de vos 30 ans. 
+- Un banquier vous propose un placement au taux placement de 6 %.							
+
+- Ct = 150000
+- t  = 10
+- i  = 
+
+```
+VA(6%;10;0;-150000) = 83759.22
+```

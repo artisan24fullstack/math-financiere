@@ -30,6 +30,23 @@ Ct = 1500 * ( 1 + 4% ) ^ 2.5 = 1654.53
 
 i = Ct - Co = 154.53
 
-VC(4%;2,5;0;-1500)
+VC(4%;2,5;0;-1500) = 1654.53
+
 ```
 
+## Exo 3
+- Vous achetez un Bon de capitalisation de 2 500 EUR pendant 3 ans à 3,00 % brut (30% précompte) . 
+- Quel sera la valeur acquise nette?								
+
+- Co = 2500
+- t  = 3 
+- i  = 3%
+
+```
+VC(3%;3;0;-2500) = 2731.82
+
+i_brut = 231.82
+
+i_net = 162.27 = (1 - 30%) * i_brut = 0.7 * i_brut
+
+```
